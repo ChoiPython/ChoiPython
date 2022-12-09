@@ -11,7 +11,6 @@
 
 📫 wndud7159@naver.com
 
-[<img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white">](https://open.kakao.com/o/sHvk4nSe)
 
 
 <!--
