@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=CHOIJUYOUNG%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=CHOI%20&fontSize=90)
 
 ### Hi there 👋
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndud7159)](https://solved.ac/wndud7159)
