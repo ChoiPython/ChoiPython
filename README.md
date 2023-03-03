@@ -11,7 +11,8 @@
 ## 📚잘하는 것
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
  </br>
- * 다시 풀어보자 백준..! (군대가기전까지..!)
+</br>
++ 인공지능 공부해야지..
  
  
  
