@@ -6,8 +6,7 @@
 ## 🌱공부할 것
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 </br>
-~~의욕을 잃었던 웹공부 다시 시작..! (군대가기전까지..!)안해 백준한다 그냥~~
-* 인공지능 공부해야지..
+
 
 ## 📚잘하는 것
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
