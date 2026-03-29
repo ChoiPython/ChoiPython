@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=CHOI%20&fontSize=90)
 
-### Hi there 👋
+### 이번년도 죽어보자
 
 
 ## 🌱공부할 것
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+영어, 백준, 정보보호(해킹), AI
 </br>
 
 
 ## 📚잘하는 것
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
  </br>
 </br>
 
