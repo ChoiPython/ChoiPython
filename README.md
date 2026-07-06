@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Choi%20Juyoung&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Choi%20Juyoung&fontSize=60&fontColor=ffffff)
 
 ### I think, therefore I am 🐳
 
